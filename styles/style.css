@@ -20,7 +20,7 @@
     column-gap: 32px;
 }
 
-.header__links-list-item{
+.header__links-list-item {
     letter-spacing: 0.01em;
     color: #000000;
     list-style-type: circle;
@@ -46,7 +46,7 @@
     line-height: 24.3px;
     letter-spacing: 0.01em;
     width: 240px;
-    height: 98px;    
+    height: 98px;
 }
 
 .header__address {
@@ -79,7 +79,7 @@
     z-index: -1;
     background-color: rgba(0, 0, 0 , 0.6);
     top: 0px;
-    left: 0px; 
+    left: 0px;
 }
 
 .cover__title {
@@ -181,7 +181,7 @@
     min-height: 563px;
     width: 334px;
     display: flex;
-    flex-grow: 1; 
+    flex-grow: 1;
 }
 
 .card-link {
@@ -353,7 +353,7 @@
     column-gap: 48px;
 }
 
-.footer__social-list-item{
+.footer__social-list-item {
     list-style: none;
     width: 48px;
     height: 48px;
