@@ -39,6 +39,7 @@
 
 .header__link-active {
     text-decoration: none;
+    border-bottom: none;
 }
 
 .address {
@@ -346,6 +347,11 @@
 .footer__menu-link {
     text-decoration: none;
     border-bottom: 1px solid;
+}
+
+.footer__menu-link_active {
+    text-decoration: none;
+    border-bottom: none;
 }
 
 .footer__social-list {
