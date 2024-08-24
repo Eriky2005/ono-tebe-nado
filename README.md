@@ -1,1 +1,1 @@
-https://github.com/Eriky2005/ono-tebe-nado.git
+https://github.com/Eriky2005/ono-tebe-nado
